@@ -1,4 +1,4 @@
-
+package javacomopeu;
 public class Fonte {
 	int codigoProduto,estoque; 
 	String descricao;
